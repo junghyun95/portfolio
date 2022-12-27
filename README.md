@@ -1,3 +1,2 @@
 # portfolio
-hello
-first commit
+프론트엔드 개발자를 희망하는 이정현의 포트폴리오 입니다.
